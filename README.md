@@ -1,4 +1,4 @@
-/*![](https://komarev.com/ghpvc/?username=GustavodCastro&color=006bed)*//
+
 
 ## Sobre mim
 
@@ -13,7 +13,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Aplicações**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -40,10 +40,15 @@
 
 <br/>
 
-<a href="https://github.com/GustavodCastro" title="Perfil do Gustavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavodCastro&theme=dracula&show_icons=true" />
-[![GustavodCastro](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodCastro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/GustavodCastro/GustavodCastro" title="Perfil do Gustavo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavodCastro&theme=shadow_green&show_icons=true" />
+
 </a>
+<a href="https://github.com/GustavodCastro/GustavodCastro">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodcastro&layout=compact />
+</a>
+
+
 
 ## Onde me encontrar
 
