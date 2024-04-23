@@ -2,7 +2,7 @@
 
 ## About me
 
-- - 👋 Hi, I’m @GustavodCastro, or just Gustavo de Castro.
+- 👋 Hi, I’m @GustavodCastro, or just Gustavo de Castro.
 - 👀 I’m interested in learning new technologies and develop abilities, nowardays related to software development and inovation.
 - 🌱 I’m currently learning Java, HTML and CSS. I'm a Systems/Software Development Undergraduate Student at Instituto Federal de Brasília.
 - 💞️ I’m looking to collaborate on projects that involve developing solutions to real-world problems related to themes/fields such as : Public Governance/Administration, Education Technologies, Social Networking Technologies, Research and Science, and such other themes/fields that can impact positively in improving people's quality life.
