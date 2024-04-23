@@ -65,7 +65,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-englishgustavodecastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/englishgustavodecastro/)](https://www.linkedin.com/in/englishgustavodecastro/)
 [![Gmail Badge](https://img.shields.io/badge/-castro.gustavode@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:castro.gustavode@gmail.com)](mailto:castro.gustavode@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/GustavodCastro?label=follow&style=social)]([https://github.com/GustavodCastro])
+[![GitHub](https://img.shields.io/github/followers/GustavodCastro?label=follow&style=social)](https://github.com/GustavodCastro)
 
 <!---
 GustavodCastro/GustavodCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
