@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=GustavodCastro&color=006bed)
+/*![](https://komarev.com/ghpvc/?username=GustavodCastro&color=006bed)*//
 
 ## Sobre mim
 
@@ -40,19 +40,17 @@
 
 <br/>
 
-<a href="https://github.com/GustavodCastro" title="Perfil do Iuri">
+<a href="https://github.com/GustavodCastro" title="Perfil do Gustavo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavodCastro&theme=dracula&show_icons=true" />
-</a>
 [![GustavodCastro](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodCastro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/englishgustavodecastro/)](https://www.linkedin.com/in/englishgustavodecastro/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:castro.gustavode@gmail.com)](mailto:castro.gustavode@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([https://github.com/GustavodCastro])
+[![Linkedin](https://img.shields.io/badge/-englishgustavodecastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/englishgustavodecastro/)](https://www.linkedin.com/in/englishgustavodecastro/)
+[![Gmail Badge](https://img.shields.io/badge/-castro.gustavode@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:castro.gustavode@gmail.com)](mailto:castro.gustavode@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/GustavodCastro?label=follow&style=social)]([https://github.com/GustavodCastro])
 
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <!---
 GustavodCastro/GustavodCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
