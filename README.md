@@ -45,9 +45,9 @@
 
 </a>
 <a href="https://github.com/GustavodCastro/GustavodCastro">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodcastro&layout=compact />
+   <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodcastro&layout=compact" />
 </a>
-
+<br>
 
 
 ## Onde me encontrar
