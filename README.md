@@ -7,6 +7,7 @@
 - ⚡  Fun fact: I'm an amateur road cyclist and used to ride about 80~100km a week when I was using the bike as my principal means of transportation. It's such a fun to ride through the city and get to know new places and appreciate new horizons.
    If you like to ride too, reach me on Strava, and let's ride together: https://www.strava.com/athletes/6242860.
 
+[![GustavodCastro](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodCastro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 GustavodCastro/GustavodCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
