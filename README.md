@@ -47,7 +47,7 @@
 
 </a>
 <a href="https://github.com/GustavodCastro/GustavodCastro">
-   <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodcastro&layout=compact" />
+   <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodcastro&langs_count=8&layout=donut" />
 </a>
 <br>
 
